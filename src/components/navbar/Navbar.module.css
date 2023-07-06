@@ -1,0 +1,21 @@
+.bg {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #d31414;
+  color: #ffffff;
+  padding: 10px 5px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.flex svg {
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+.hamburger {
+}
